@@ -1,0 +1,133 @@
+{
+  "Metadata": {
+    "title": "Hotel Mirë | Një qëndrim boutique në Sarandë",
+    "description": "Jeta është e bukur pranë detit. Zbuloni Hotel Mirë në Sarandë, me dhoma me pamje nga deti, mëngjese të qeta dhe hijeshi mesdhetare."
+  },
+  "LanguageSwitcher": {
+    "label": "Zgjidhni gjuhën"
+  },
+  "Header": {
+    "home": "Faqja kryesore e Hotel Mirë",
+    "story": "Historia jonë",
+    "rooms": "Dhoma & suita",
+    "experience": "Përvoja",
+    "booking": "Planifikoni qëndrimin",
+    "open": "Hapni menynë",
+    "close": "Mbyllni menynë"
+  },
+  "Hero": {
+    "location": "Sarandë · Riviera Shqiptare",
+    "title": "Jeta është e bukur",
+    "titleAccent": "pranë detit.",
+    "description": "Dyert e ballkonit hapen. Mëngjesi rrjedh ngadalë. Joni shtrihet pafund para jush. Mirë se vini në këndin tuaj të Rivierës.",
+    "button": "Gjeni dhomën tuaj",
+    "caption": "Një qëndrim boutique, pak më pranë detit",
+    "discover": "Zbuloni Mirë",
+    "imageAlt": "Një tarracë prej guri e ndriçuar nga dielli me pamje nga deti Jon"
+  },
+  "OurStory": {
+    "eyebrow": "Mirë se vini në Hotel Mirë",
+    "title": "Një vend për",
+    "titleAccent": "të qenë vetvetja.",
+    "intro": "Disa vende ju ftojnë të shihni gjithçka. Këtu, mjafton të hapni dyert e ballkonit dhe ta lini ditën të vijë tek ju.",
+    "paragraphOne": "Me pamje nga Joni në Sarandë, Hotel Mirë është një strehë e vogël bregdetare me tetëmbëdhjetë dhoma të menduara me kujdes. Materialet natyrore, çarçafët e butë dhe mikpritja e ngrohtë ju bëjnë të ndiheni menjëherë si në shtëpi.",
+    "paragraphTwo": "Niseni ditën me mëngjes në tarracën mbi çati. Kalojeni pasditen duke zbuluar këndin tuaj të preferuar të bregdetit. Kthehuni në qetësinë e ballkonit, ndërsa drita zbutet mbi gji. Këtu nuk ka nxitim.",
+    "button": "Ndihuni si në shtëpi",
+    "seaTitle": "Deti, gjithmonë pranë",
+    "seaDescription": "Aromë deti në ajër, kaltërsi në horizont dhe një ditë plazhi sa herë të dëshironi.",
+    "coffeeTitle": "Mëngjese për t’u kujtuar",
+    "coffeeDescription": "Kafe e freskët, shije vendase dhe mëngjes që shijohet pa nxitim.",
+    "sunTitle": "Riviera me ritmin tuaj",
+    "sunDescription": "Dilni për të eksploruar ose shijoni kënaqësinë e thjeshtë të pushimit."
+  },
+  "Rooms": {
+    "eyebrow": "Dhoma & suita",
+    "title": "Këtu, çlodhja",
+    "titleAccent": "vjen natyrshëm.",
+    "intro": "Tri mënyra për t’u ndier si në shtëpi. Secila me detaje të kujdesshme, hapësirë për qetësi dhe karakterin e vet.",
+    "from": "Nga",
+    "night": "/ natë",
+    "button": "Pyesni për këtë dhomë",
+    "enquireLabel": "Pyesni për dhomën: {room}",
+    "garden": {
+      "name": "Dhomë Dyshe me Kopsht",
+      "description": "Një strehë e qetë me çarçafë të butë, materiale natyrore dhe një tarracë private mes gjelbërimit.",
+      "alt": "Dhomë gjumi mikpritëse me dalje në një tarracë private të gjelbëruar",
+      "guests": "2 persona",
+      "feature": "Tarracë private në kopsht"
+    },
+    "sea": {
+      "name": "Dhomë Dyshe me Pamje nga Deti",
+      "description": "Zgjohuni përballë kaltërsisë së Jonit. Hapni dyert e ballkonit, shijoni një kafe dhe merreni ditën shtruar.",
+      "alt": "Dhomë dyshe elegante me ballkon dhe pamje nga deti Jon",
+      "guests": "2 persona",
+      "feature": "Një copëz deti vetëm për ju"
+    },
+    "suite": {
+      "name": "Suita Riviera",
+      "description": "Hapësirë për t’u çlodhur, një kënd ndenjeje plot dritë dhe një tarracë e bollshme që ju fton të qëndroni pak më gjatë.",
+      "alt": "Suitë e bollshme bregdetare me kënd ndenjeje dhe tarracë me pamje nga deti",
+      "guests": "Deri në 3 persona",
+      "feature": "Më shumë hapësirë për qetësi"
+    }
+  },
+  "Experience": {
+  "eyebrow": "Përvoja Mirë",
+  "title": "Më pak nxitim.",
+  "titleAccent": "Më shumë jetë.",
+  "intro": "Pjesa më e bukur e qëndrimit mund të jetë çasti kur ndaloni së bëri plane.",
+  "description": "Një mëngjes që shijohet gjatë. Një pasdite me ritmin e detit. Edhe një bisedë teksa perëndon dielli. Në Mirë, kënaqësitë e thjeshta i japin ritmin ditës.",
+  "button": "Planifikoni pushimet",
+  "imageAlt": "Mëngjes për dy persona në një tarracë me diell dhe pamje nga deti Jon",
+  "imageEyebrow": "Një çast për veten",
+  "imageCaption": "Disa pamje meritojnë gjithë pasditen tuaj.",
+  "breakfastTitle": "Mëngjes mbi kaltërsi",
+  "breakfastDescription": "Niseni ditën në tarracën mbi çati me bukë të freskët, fruta të stinës, djathë vendas dhe kafe. Qëndroni edhe pak për pamjen.",
+  "coastTitle": "Ndiqni bregdetin",
+  "coastDescription": "Gjeni një vend të qetë për të notuar, shëtisni përgjatë detit ose na pyesni për një kënd të preferuar. Dita është e juaja.",
+  "eveningTitle": "Shijojeni mbrëmjen ngadalë",
+  "eveningDescription": "Kthehuni në ballkonin tuaj, çlodhuni në dritën e butë të mbrëmjes dhe ndiqni ngjyrat që ndryshojnë mbi Jon."
+},
+"Booking": {
+  "eyebrow": "Pushimet tuaja të ardhshme",
+  "title": "Pak më pranë",
+  "titleAccent": "detit.",
+  "intro": "Zgjidhni datat, gjeni dhomën tuaj të preferuar dhe filloni të imagjinoni një qëndrim më të qetë.",
+  "notice": "Ky formular aktualisht ofron vetëm një pamje paraprake. Asnjë informacion nuk dërgohet dhe nuk kryhet rezervim.",
+  "formTitle": "Planifikoni qëndrimin",
+  "required": "Fushat me shenjën * janë të detyrueshme.",
+  "name": "Emri dhe mbiemri",
+  "email": "Adresa e emailit",
+  "arrival": "Mbërritja",
+  "departure": "Largimi",
+  "guests": "Persona",
+  "room": "Dhoma e preferuar",
+  "message": "Diçka tjetër?",
+  "messagePlaceholder": "Na tregoni çfarë do ta bënte qëndrimin tuaj të veçantë...",
+  "button": "Shikoni kërkesën",
+  "dateError": "Data e largimit duhet të jetë pas datës së mbërritjes.",
+  "pastDate": "Zgjidhni ditën e sotme ose një datë të ardhshme për mbërritjen.",
+  "summaryTitle": "Qëndrimi juaj, me një vështrim",
+  "summaryNotice": "Pamja paraprake e kërkesës është gati. Të dhënat nuk janë dërguar dhe disponueshmëria nuk është kontrolluar.",
+  "edit": "Filloni një kërkesë të re",
+  "none": "Pa kërkesa shtesë",
+  "roomOptions": {
+    "any": "Më ndihmoni të zgjedh",
+    "garden": "Dhomë Dyshe me Kopsht",
+    "sea": "Dhomë Dyshe me Pamje nga Deti",
+    "suite": "Suita Riviera"
+  }
+},
+"Footer": {
+  "home": "Faqja kryesore e Hotel Mirë",
+  "tagline": "Jeta është e bukur pranë detit.",
+  "location": "Sarandë · Riviera Shqiptare",
+  "navigation": "Lidhjet në fund të faqes",
+  "story": "Historia jonë",
+  "rooms": "Dhoma & suita",
+  "experience": "Përvoja",
+  "booking": "Planifikoni qëndrimin",
+  "rights": "Të gjitha të drejtat të rezervuara.",
+  "credit": "Faqja u krijua nga Ionian Digital"
+}
+}

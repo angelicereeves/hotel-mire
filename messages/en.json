@@ -1,0 +1,133 @@
+{
+  "Metadata": {
+    "title": "Hotel Mirë | A Boutique Stay in Sarandë",
+    "description": "Life is good by the sea. Discover Hotel Mirë, a boutique coastal retreat in Sarandë with sea-view rooms, slow mornings, and Mediterranean charm."
+  },
+  "LanguageSwitcher": {
+    "label": "Choose language"
+  },
+  "Header": {
+    "home": "Hotel Mirë home",
+    "story": "Our story",
+    "rooms": "Rooms & suites",
+    "experience": "The experience",
+    "booking": "Plan your stay",
+    "open": "Open navigation",
+    "close": "Close navigation"
+  },
+  "Hero": {
+    "location": "Sarandë · Albanian Riviera",
+    "title": "Life is good",
+    "titleAccent": "by the sea.",
+    "description": "Open balcony doors. A slower morning. The Ionian stretching endlessly ahead. Welcome to your little corner of the Riviera.",
+    "button": "Find your room",
+    "caption": "A boutique stay, a little closer to the sea",
+    "discover": "Discover Mirë",
+    "imageAlt": "A sunlit stone terrace overlooking the blue Ionian Sea"
+  },
+  "OurStory": {
+    "eyebrow": "A warm welcome to Mirë",
+    "title": "Somewhere to",
+    "titleAccent": "just be.",
+    "intro": "Some places ask you to see everything. Here, you can simply open the balcony doors and let the day come to you.",
+    "paragraphOne": "Overlooking the Ionian in Sarandë, Hotel Mirë is a small coastal retreat with eighteen thoughtfully considered rooms. Natural textures, soft linens, and a welcoming spirit make it easy to settle in.",
+    "paragraphTwo": "Start with breakfast on the rooftop terrace. Spend the afternoon finding your favourite stretch of coastline. Come back to a quiet balcony as the light softens over the bay. There is no particular rush.",
+    "button": "Make yourself at home",
+    "seaTitle": "The sea, always near",
+    "seaDescription": "Salt in the air, blue on the horizon, and a beach day whenever you feel like it.",
+    "coffeeTitle": "Mornings worth keeping",
+    "coffeeDescription": "Fresh coffee, local flavours, and breakfast best enjoyed without a hurry.",
+    "sunTitle": "Your own Riviera rhythm",
+    "sunDescription": "Head out and explore, or settle into the simple pleasure of doing very little."
+  },
+  "Rooms": {
+    "eyebrow": "Rooms & suites",
+    "title": "Rest comes",
+    "titleAccent": "naturally here.",
+    "intro": "Three ways to settle in. Each with thoughtful details, space to slow down, and a character of its own.",
+    "from": "From",
+    "night": "/ night",
+    "button": "Enquire about this room",
+    "enquireLabel": "Enquire about the {room}",
+    "garden": {
+      "name": "Garden Double",
+      "description": "A quiet hideaway with soft linens, natural textures, and a private terrace opening onto greenery.",
+      "alt": "Warm boutique hotel bedroom opening onto a leafy private terrace",
+      "guests": "2 guests",
+      "feature": "Private garden terrace"
+    },
+    "sea": {
+      "name": "Sea View Double",
+      "description": "Wake to the blue of the Ionian. Open the balcony doors, pour a coffee, and take your time.",
+      "alt": "Elegant double bedroom with a balcony overlooking the Ionian Sea",
+      "guests": "2 guests",
+      "feature": "Your own slice of the sea"
+    },
+    "suite": {
+      "name": "Riviera Suite",
+      "description": "Room to unwind, a sunlit sitting area, and a generous terrace made for lingering a little longer.",
+      "alt": "Spacious coastal hotel suite with a sitting area and sea-facing terrace",
+      "guests": "Up to 3 guests",
+      "feature": "A little more room to linger"
+    }
+  },
+  "Experience": {
+  "eyebrow": "The Mirë experience",
+  "title": "Less rushing.",
+  "titleAccent": "More living.",
+  "intro": "The best part of your stay might be the moment you stop making plans.",
+  "description": "A breakfast that stretches into the morning. An afternoon shaped by the sea. One more conversation as the sun slips away. At Mirë, simple pleasures set the pace.",
+  "button": "Plan your escape",
+  "imageAlt": "Breakfast for two on a sunlit terrace overlooking the Ionian Sea",
+  "imageEyebrow": "Take a moment",
+  "imageCaption": "Some views deserve your whole afternoon.",
+  "breakfastTitle": "Breakfast above the blue",
+  "breakfastDescription": "Start on the rooftop terrace with fresh bread, seasonal fruit, local cheese, and coffee. Stay for the view.",
+  "coastTitle": "Follow the coastline",
+  "coastDescription": "Find a quiet place to swim, wander along the waterfront, or ask us for a favourite spot. The day is yours to shape.",
+  "eveningTitle": "Let the evening linger",
+  "eveningDescription": "Return to your balcony, settle into the soft evening light, and watch the colours change over the Ionian."
+},
+"Booking": {
+  "eyebrow": "Your next chapter",
+  "title": "A little closer",
+  "titleAccent": "to the sea.",
+  "intro": "Choose your dates, find your favourite room, and start imagining a slower kind of stay.",
+  "notice": "This inquiry form currently offers a preview only. No information is sent and no reservation is made.",
+  "formTitle": "Plan your stay",
+  "required": "Fields marked * are required.",
+  "name": "Full name",
+  "email": "Email address",
+  "arrival": "Arrival",
+  "departure": "Departure",
+  "guests": "Guests",
+  "room": "Room preference",
+  "message": "Anything else?",
+  "messagePlaceholder": "Tell us what would make your stay special...",
+  "button": "Preview your inquiry",
+  "dateError": "Departure must be after arrival.",
+  "pastDate": "Please choose today or a future arrival date.",
+  "summaryTitle": "Your stay, at a glance",
+  "summaryNotice": "Your inquiry preview is ready. These details have not been sent, and availability has not been checked.",
+  "edit": "Start a new inquiry",
+  "none": "No additional requests",
+  "roomOptions": {
+    "any": "Help me choose",
+    "garden": "Garden Double",
+    "sea": "Sea View Double",
+    "suite": "Riviera Suite"
+  }
+},
+"Footer": {
+  "home": "Hotel Mirë home",
+  "tagline": "Life is good by the sea.",
+  "location": "Sarandë · Albanian Riviera",
+  "navigation": "Footer navigation",
+  "story": "Our story",
+  "rooms": "Rooms & suites",
+  "experience": "The experience",
+  "booking": "Plan your stay",
+  "rights": "All rights reserved.",
+  "credit": "Website by Ionian Digital"
+}
+}
